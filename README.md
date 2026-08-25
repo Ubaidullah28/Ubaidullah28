@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ubaidullah
+# 👋 Hi, I'm Muhammad Ubaidullah
 
 <h3 align="center">
   Software Engineer • AI/ML Engineer • AI Automation Engineer
