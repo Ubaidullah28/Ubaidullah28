@@ -228,7 +228,10 @@ An application combining **speech transcription and language translation** to co
 ## 🐍 Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ubaidullah28/Ubaidullah28/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+  <img
+    src="https://raw.githubusercontent.com/Ubaidullah28/Ubaidullah28/gh-pages/github-contribution-grid-snake-dark.svg"
+    alt="GitHub Contribution Snake"
+  />
 </p>
 
 ---
